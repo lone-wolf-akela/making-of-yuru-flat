@@ -1,6 +1,6 @@
 # Yuru-Flat Lora
 
-The Yuru-Flat Lora is distributed under the [Fair AI Public License 1.0-SD](https://freedevproject.org/faipl-1.0-sd/). In compliance with the license requirements, the following documentation details the steps involved in the creation of this Lora.
+The [Yuru-Flat Lora](https://civitai.com/models/412519) is distributed under the [Fair AI Public License 1.0-SD](https://freedevproject.org/faipl-1.0-sd/). In compliance with the license requirements, the following documentation details the steps involved in the creation of this Lora.
 
 ## Creation Process
 
